@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/gustavoalcivar/basic_blockchain#readme",
   "dependencies": {
-    "crypto-js": "^4.0.0"
+    "crypto-js": "^4.2.0"
   }
 }
